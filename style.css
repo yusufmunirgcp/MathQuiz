@@ -29,12 +29,13 @@ body {
 }
 
 .question-card {
-    background-image: linear-gradient(to bottom right, #FFA500, #FF6347);
+    background-color: #FFDAB9; /* Light beigeish orange */
     border-radius: 1rem;
     margin: 2rem auto;
     padding: 2rem 0;
     text-align: center;
 }
+
 
 
 .answer-card {
