@@ -20,8 +20,8 @@ body {
 .container {
     background-image: linear-gradient(to bottom right, #FFA500, #FF6347);
     transition: 1s ease;
-    width: 80%; /* You can adjust this as needed */
-    max-width: 40rem; /* You can adjust this as needed */
+    width: 80%;
+    max-width: 40rem;
     border-radius: 1rem;
     overflow: hidden;
     box-shadow: 1rem 1rem 10rem 2rem rgb(0 0 0 / 0.25);
@@ -32,7 +32,7 @@ body {
     background-color: #FFDAB9; /* Light beigeish orange */
     border-radius: 1rem;
     margin: 2rem auto;
-    padding: 2rem 0;
+    padding: 2rem;
     text-align: center;
     width: 90%; /* Adjust width as needed */
 }
