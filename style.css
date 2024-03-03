@@ -22,7 +22,7 @@ body {
     background-position: center; /* Center the background image */
 }
 .container {
-    background-color: aquamarine;
+    background-color: (254,246,234);
     transition: 1s ease;
     width: 80%;
     max-width: 40rem;
