@@ -191,3 +191,14 @@ buttons[3].addEventListener('click', () => {
     clearInterval(t);
     outro(3);
 });
+
+// Inside a function that runs when the quiz resizes or loads
+function adjustFontSizes() {
+  const containerWidth = document.querySelector('.container').offsetWidth;
+  const buttonFontSize = // Determine font size based on containerWidth
+
+  // Apply the calculated font size to the buttons
+  for (let button of buttons) {
+    button.style.fontSize = buttonFontSize + 'px'; 
+  }
+}
