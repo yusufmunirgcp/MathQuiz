@@ -22,7 +22,7 @@ body {
     background-position: center; /* Center the background image */
 }
 .container {
-    background-color: aliceblue;
+    background-color: aquamarine;
     transition: 1s ease;
     width: 80%;
     max-width: 40rem;
@@ -33,7 +33,7 @@ body {
 }
 
 .question-card {
-    background-color: aquamarine;
+    background-color: (254,246,234);
     border-radius: 1rem;
     margin: 2rem auto;
     padding: 2rem 0;
