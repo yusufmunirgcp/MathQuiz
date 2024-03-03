@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    background-color: aliceblue;
+    background-image: linear-gradient(to bottom right, #FFA500, #FF6347);
     transition: 1s ease;
     width: 80%;
     max-width: 40rem;
@@ -29,12 +29,13 @@ body {
 }
 
 .question-card {
-    background-color: aquamarine;
+    background-image: linear-gradient(to bottom right, #FFA500, #FF6347);
     border-radius: 1rem;
     margin: 2rem auto;
     padding: 2rem 0;
     text-align: center;
 }
+
 
 .answer-card {
     padding: 2rem 0 0;
